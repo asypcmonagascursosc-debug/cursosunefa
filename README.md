@@ -1,6 +1,6 @@
 # Nombre de tu Proyecto
 
-Breve descripción de lo que hace tu aplicación hecha en Laravel.
+SISTEMA DE CURSOS UNEFA ONLINE
 
 ## 🚀 Requisitos Previos
 
@@ -8,7 +8,7 @@ Antes de instalar, asegúrate de tener instalado:
 * PHP (versión >= 8.2 o la que use tu proyecto)
 * Composer
 * Node.js y NPM
-* MySQL / PostgreSQL o el motor de base de datos que utilices
+* MySQL
 
 ## 🛠️ Pasos para la Instalación
 
@@ -17,7 +17,7 @@ Sigue estos pasos para configurar el proyecto de forma local:
 ### 1. Clonar el repositorio
 Abre tu terminal y ejecuta el siguiente comando:
 ```bash
-git clone https://github.com
+git clone [https://github.com](https://github.com/asypcmonagascursosc-debug/cursosunefa)
 cd TU_REPOSITORIO
 ```
 
