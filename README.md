@@ -60,5 +60,5 @@ php artisan serve
 ```
 
 Ya puedes acceder a la aplicación desde tu navegador en: **http://127.0.0.1:8000**
-  emailadministrador@gmail.com
+    emailadministrador@gmail.com
     password=12345678
